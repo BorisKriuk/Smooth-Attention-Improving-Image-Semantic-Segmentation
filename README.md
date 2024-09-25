@@ -1,7 +1,7 @@
 # Smooth-Attention-Improving-Image-Semantic-Segmentation
 Code accompaniment for the research work submitted by Sparcus Technologies Limited on Smooth Attention: Improving Image Semantic Segmentation
 
-Preprint can be found here: Not available yet <br>
+Preprint can be found here:  https://www.preprints.org/manuscript/202409.1283/v1 <br>
 
 # Abstract <br>
 Attention mechanisms have become a fundamental component of deep learning, including the field of computer vision. The key idea behind attention in computer vision is to help the model focus on the relevant spatial regions of the input image, rather than treating all regions equally. The traditional approaches to attention mechanisms in computer vision often suffer from distribution inconsistencies in the attention maps, resulting in sharp transitions that negatively affect model’s focus and lead to poor generalization on complex shapes. The problem of spatial incoherence is particularly pronounced in the task of semantic segmentation, where accurate pixel-level predictions require a detailed understanding of the spatial relationships within the image. In this paper, we propose an attention mechanism called Smooth Attention designed for convolutional neural networks to address the problem of spatial inconsistency in attention maps through multidimensional spatial smoothing. We conduct a series of experiments to evaluate the effectiveness of the proposed mechanism and demonstrate its superior performance compared to traditional methods.
